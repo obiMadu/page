@@ -4,9 +4,10 @@ config:
   # pronouns:
   # pronunciation: name.mp3
   description: | 
-    Multi-cloud certified, Cloud & DevOps Engineer
-    <p>HNGx Top 5%, GADS '22 Finalist</p>
-    CODm Ranked Warrior
+    Certified Cloud & DevOps Engineer
+    Golang, Terraform, Azure, GCloud
+    <b>HNGx Top 5%, GADS '22 Finalist</b>
+    <i>CODm Ranked Warrior</i>
   avatar: skey.jpg
   background: garbage.jpg
   background_opacity: 0.7
