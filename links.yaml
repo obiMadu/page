@@ -1,20 +1,13 @@
 config:
-  title: "Sam's Links"
-  name: Samuel Colburn
-  pronouns: he/him
-  pronunciation: name.mp3
-  description: |
-    Software engineer,
-    gamer,
-    tech-enthusiast,
-    musician,
-    audio nerd,
-    voicover artist,
-    thespian,
-    ham,
-    fisherman,
-    birder,
-    dork
+  title: "Obi.M | Welcome"
+  name: Obi.M
+  # pronouns:
+  # pronunciation: name.mp3
+  description: | 
+    Multi-Cloud certified, Cloud & DevOps engineer <br/>
+    Golang, 6x Azure, 4x Google/GCloud, Terraform-in-sight <br/>
+    HNGx Top 5%, GADS '22 Finalist <br/>
+    CODm Respawn snipper
   avatar: skey.jpg
   background: garbage.jpg
   background_opacity: 0.7
@@ -24,152 +17,28 @@ config:
   touchicon: apple-touch-icon.png
 
 links:
-  - title: Sites
+  - title: Resume
     links:
-      - text: Blog
+      - text: Download Resume
         icon: fa-solid fa-blog
-        href: https://blog.sam.codes
-      - text: Website
-        icon: fa-solid fa-terminal
-        href: https://sam.codes
-      - text: Disney Podcast
-        icon: fa-solid fa-podcast
-        href: https://boredandsassy.com
-
-  - title: Contact
-    links:
-      - text: Telegram
-        icon: fa-brands fa-telegram
-        href: https://t.me/ho0ber
-        wrap: tel
-      - text: Email
-        icon: fa-solid fa-envelope
-        href: "mailto:samuel.colburn@gmail.com"
-        copy: "samuel.colburn@gmail.com"
+        href: https://obimadu.pro/resume.pdf   
 
   - title: Projects
     links:
-      - text: TelBox
-        icon: fa-solid fa-ethernet
-        href: http://telbox.net
-        info: A modern BBS built for retro hardware
-      - text: WatIP
-        icon: fa-solid fa-globe
-        href: https://watip.hoob.io
-        info: ipinfo-like tool, but basic
-      - text: CandyCode
-        icon: fa-solid fa-candy-cane
-        href: https://candy.hoob.io
-        info: Simple tool for food packaging codes
-      - text: Commuter.fail
-        icon: fa-solid fa-train
-        href: https://commuter-fail.hoob.io
-        info: South Station platform number tool
-      - text: HackWar
-        icon: fa-solid fa-terminal
-        href: https://hackwar.net
-        info: Abandoned competitive "hacking" game
+      - text: Github
+        icon: fa-brands fa-github
+        href: https://github.com/obiMadu
+        info: View pinned repos!    
 
-  - title: Socials
+  - title: Contacts & Socials
     links:
-      - text: Bluesky
-        icon: fa-solid fa-cloud
-        href: https://bsky.app/profile/sam.codes
-      - text: Mastodon
-        icon: fa-brands fa-mastodon
-        href: https://mas.to/@ho0ber
-        more: rel="me"
-      - text: Threads
-        href: https://www.threads.net/@ho0ber
-        icon: fa-solid fa-at flipped
-      - text: Facebook
-        icon: fa-brands fa-facebook
-        href: https://www.facebook.com/ho0ber
-      - text: TikTok
-        icon: fa-brands fa-tiktok
-        href: https://www.tiktok.com/@ho0ber
-      - text: YouTube (Main)
-        icon: fa-brands fa-youtube
-        href: https://youtube.com/ho0ber
-      - text: YouTube (Retro Tech)
-        icon: fa-brands fa-youtube
-        href: https://www.youtube.com/@samdotcodes
+      - text: Email
+        icon: fa-solid fa-envelope
+        href: "mailto:mail@obimadu.pro"
+        copy: "mail@obimadu.pro"
       - text: LinkedIn
         icon: fa-brands fa-linkedin
-        href: http://www.linkedin.com/in/samuelcolburn
-      - text: Goodreads
-        icon: fa-brands fa-goodreads
-        href: https://www.goodreads.com/user/show/22635478-samuel-colburn
-      - text: QRZ
-        icon: fa-solid fa-radio
-        href: https://www.qrz.com/db/w1sdc
-      - text: Fishbrain
-        icon: fa-solid fa-fish
-        href: https://fishbrain.com/anglers/ho0ber
-      - text: Telegram
-        icon: fa-brands fa-telegram
-        href: https://t.me/ho0ber
-
-  - title: Gaming
-    links:
-      - text: "Discord"
-        icon: fa-brands fa-discord
-        href: https://discordapp.com/users/93884048014852096
-        copy: Hoober
-      - text: "Steam"
-        icon: fa-brands fa-steam
-        href: https://steamcommunity.com/id/Ho0ber/
-      - text: "Xbox Gamertag"
-        icon: fa-brands fa-xbox
-        copy: TheBeefThief
-      - text: "Switch Friendcode"
-        icon: fa-solid fa-gamepad
-        copy: SW-2168-2116-3814
-
-  - title: Code
-    links:
-      - text: GitHub
-        icon: fa-brands fa-github
-        href: https://github.com/ho0ber
-      - text: Fork this project!
-        icon: fa-solid fa-code-fork
-        href: https://github.com/ho0ber/links
-        info: See my blog for a tutorial
-
-  - title: Music
-    links:
-      - text: SoundCloud
-        icon: fa-brands fa-soundcloud
-        href: https://soundcloud.com/samuel-hoober-colburn
-        info: "Some of the music I've made"
-      - text: Spotify
-        icon: fa-brands fa-spotify
-        href: https://open.spotify.com/user/1215278444?si=e4d8a19125954d53
-        info: Some of the music I listen to
-
-  - title: Deprecated/Defunct/Deserted
-    links:
+        href: https://www.linkedin.com/in/obimadu
       - text: Twitter
         icon: fa-brands fa-twitter
-        href: https://twitter.com/ho0ber
-        info: Mostly purged; retired
-      - text: Old Blog
-        icon: fa-solid fa-blog
-        href: https://hoob.dev
-        info: Migrated to current blog
-      - text: Instagram
-        icon: fa-brands fa-instagram
-        href: https://www.instagram.com/ho0ber/
-        info: Largely unused
-      - text: Flickr
-        icon: fa-brands fa-flickr
-        href: https://www.flickr.com/photos/ho0ber
-        info: Nothing new in many years
-      - text: Letterboxd
-        icon: fa-solid fa-film
-        href: https://letterboxd.com/ho0ber/
-        info: Pending a backfill
-      - text: Simkl
-        icon: fa-solid fa-video
-        href: https://simkl.com/6219562
-        info: TV/Movies/Anime scrobbler - evaluating
+        href: https://twitter.com/realObiM
