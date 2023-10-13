@@ -4,9 +4,9 @@ config:
   # pronouns:
   # pronunciation: name.mp3
   description: | 
-    Multi-Cloud certified, Cloud & DevOps engineer <br/>
-    Golang, 6x Azure, 4x Google/GCloud, Terraform <br/>
-    HNGx Top 5%, GADS '22 Finalist <br/>
+    Multi-Cloud certified, DevOps|Cloud engineer<br/>
+    Golang, 6x Azure, 4x Google/GCloud, Terraform<br/>
+    HNGx Top 5%, GADS '22 Finalist<br/>
     CODm Respawn snipper
   avatar: skey.jpg
   background: garbage.jpg
