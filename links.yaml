@@ -1,13 +1,12 @@
 config:
-  title: "Obi Madu | Welcome"
+  title: "Obi.M| Welcome"
   name: Obi.M
   # pronouns:
   # pronunciation: name.mp3
   description: | 
-    Multi-Cloud certified, DevOps|Cloud engineer<br/>
-    Golang, 6x Azure, 4x Google/GCloud, Terraform<br/>
-    HNGx Top 5%, GADS '22 Finalist<br/>
-    CODm Respawn snipper
+    Multi-cloud certified, Cloud & DevOps Engineer
+    <p>HNGx Top 5%, GADS '22 Finalist</p>
+    CODm Ranked Warrior
   avatar: skey.jpg
   background: garbage.jpg
   background_opacity: 0.7
