@@ -1,6 +1,2 @@
 User-agent: *
 Disallow: /
-
-# Let's see if meta unblocks my domain
-User-agent: facebookexternalhit
-Allow: /
