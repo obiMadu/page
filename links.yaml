@@ -47,7 +47,7 @@ links:
     links:
       - text: Credly
         icon: fa-solid fa-graduation-cap
-        href: https://www.credly.com/users/obimadu
+        href: https://www.credly.com/users/obimadu/badges?sort=-state_updated_at
         info: Sort by Most Recent!
       - text: Accredible
         icon: fa-solid fa-wallet
