@@ -52,3 +52,10 @@ links:
       - text: Accredible
         icon: fa-solid fa-wallet
         href: https://www.credential.net/profile/obimadu/wallet
+
+    - title: Gaming
+    links:
+      - text: Call Of Duty Mobile
+        icon: fa-solid fa-person-rifle
+        href: https://1drv.ms/f/s!AoXFFrVRaU_blRlS_S_ZJkVPJodc
+        info: Am retired though!
