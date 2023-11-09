@@ -25,6 +25,7 @@
           ),
           url('${config.background}'),
           rgba(0,0,0);
+          background-repeat: no-repeat;
     }
   </style>
   <script src="https://kit.fontawesome.com/6bee25835f.js" crossorigin="anonymous"></script>
