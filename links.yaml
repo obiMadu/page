@@ -19,9 +19,10 @@ config:
 links:
   - title: Resume
     links:
-      - text: Download Resume
+      - text: Request Resume
         icon: fa-regular fa-newspaper
-        href: https://obimadu.pro/resume.pdf   
+        href: mailto:resume@obimadu.pro
+        info: I return it ASAP!
 
   - title: Portfolio & Projects
     links:
@@ -34,16 +35,13 @@ links:
     links:
       - text: Email
         icon: fa-solid fa-envelope
-        href: "mailto:mail@obimadu.pro"
-        copy: "mail@obimadu.pro"
-      - text: LinkedIn
-        icon: fa-brands fa-linkedin
-        href: https://www.linkedin.com/in/obimadu
+        href: "mailto:hello@obimadu.pro"
+        copy: "hello@obimadu.pro"
       - text: Twitter
         icon: fa-brands fa-x-twitter
         href: https://x.com/realObiM
 
-  - title: Verify Credentials
+  - title: View & Verify Credentials
     links:
       - text: Credly
         icon: fa-solid fa-graduation-cap
@@ -58,4 +56,4 @@ links:
       - text: Call Of Duty Mobile
         icon: fa-solid fa-person-rifle
         href: https://1drv.ms/f/s!AoXFFrVRaU_blRlS_S_ZJkVPJodc
-        info: Just memories, lol
+        info: Am retired though!
