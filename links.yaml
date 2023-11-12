@@ -12,7 +12,7 @@ config:
   background: demonSlayer-1920x1440.webp
   background_opacity: 0.7
   qrcode: qrcode.webp
-  robots: none
+  robots: robots.txt
 
 links:
   - title: Resume
