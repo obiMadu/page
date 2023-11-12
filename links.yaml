@@ -13,8 +13,6 @@ config:
   background_opacity: 0.7
   qrcode: qrcode.webp
   robots: none
-  favicon: favicon.ico
-  touchicon: apple-touch-icon.png
 
 links:
   - title: Resume
