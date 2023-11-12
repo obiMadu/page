@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="${config.description}" />
 
   % if 'robots' in config:
     <meta name='robots' content='${config.robots}' />
@@ -44,7 +45,7 @@
           rgba(0,0,0);
     }
   </style>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/fontawesome.min.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/6bee25835f.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
