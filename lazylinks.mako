@@ -131,7 +131,7 @@
 
   <footer>
     % if 'qrcode' in config:
-    <div class="qrcode"><img src="${config.qrcode}" /></div>
+    <div class="qrcode"><img src="${config.qrcode}" alt="Contact QR code" href="#" width="250px" height="250px" /></div>
     % endif
     <div class="footer">Last updated: ${metadata.last_updated}</div>
   </footer>
