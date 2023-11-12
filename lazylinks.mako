@@ -54,7 +54,7 @@
   <!-- End Google Tag Manager (noscript) -->
 
   <a class="profilePicture">
-    <img src="${config.avatar}" alt="Profile Picture">
+    <img src="${config.avatar}" alt="Profile Picture" href="#" >
   </a>
  
   <div class="userName">
