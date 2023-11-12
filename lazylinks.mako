@@ -3,11 +3,14 @@
 
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   % if 'robots' in config:
     <meta name='robots' content='${config.robots}' />
   % endif
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>${config.title}</title>
+  
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -15,7 +18,21 @@
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-T65P98V6');</script>
   <!-- End Google Tag Manager -->
+
+  <!-- Links -->
   <link rel="stylesheet" href="style.css">
+
+
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#174754">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Styles & Scripts -->
   <style>
     html {
         background:
@@ -28,12 +45,6 @@
     }
   </style>
   <script src="https://kit.fontawesome.com/6bee25835f.js" crossorigin="anonymous"></script>
-  % if 'favicon' in config:
-  <link rel="shortcut icon" href="${config.favicon}" />
-  % endif
-  % if 'touchicon' in config: 
-  <link rel="apple-touch-icon" href="${config.touchicon}" sizes="120x120">
-  % endif
 </head>
 
 <body>
@@ -41,6 +52,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T65P98V6"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
+
   <a class="profilePicture">
     <img src="${config.avatar}" alt="Profile Picture">
   </a>
