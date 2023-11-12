@@ -55,7 +55,7 @@
   <!-- End Google Tag Manager (noscript) -->
 
   <a class="profilePicture">
-    <img src="${config.avatar}" alt="Profile Picture" href="#" >
+    <img src="${config.avatar}" alt="Profile Picture" >
   </a>
  
   <div class="userName">
@@ -132,7 +132,7 @@
 
   <footer>
     % if 'qrcode' in config:
-    <div class="qrcode"><img src="${config.qrcode}" alt="Contact QR code" href="#" width="250px" height="250px" /></div>
+    <div class="qrcode"><img src="${config.qrcode}" alt="Contact QR code" width="250px" height="250px" /></div>
     % endif
     <div class="footer">Last updated: ${metadata.last_updated}</div>
   </footer>
