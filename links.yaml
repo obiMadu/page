@@ -9,7 +9,7 @@ config:
     <b>HNGx Top 5%, GADS '22 Finalist.</b>
     <i>Retired CODm Respawn Snipper.</i>
   avatar: avatar.webp
-  background: demonSlayer-1920x1440.webp
+  background: background.webp
   background_opacity: 0.7
   qrcode: qrcode.webp
   robots: "index follow"
