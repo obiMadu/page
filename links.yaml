@@ -15,15 +15,12 @@ config:
   robots: "index follow"
 
 links:
-  - title: Resume
-    links:
-      - text: Request Resume
-        icon: fa-regular fa-newspaper
-        href: mailto:resume@obimadu.pro
-        info: It returns asap!
-
   - title: Portfolio & Projects
     links:
+      - text: Read my Blog!
+        icon: fa-solid fa-wifi
+        href: https://blog.obimadu.pro
+        info: View pinned repos! 
       - text: Github
         icon: fa-brands fa-github
         href: https://github.com/obiMadu
@@ -48,6 +45,13 @@ links:
       - text: Accredible
         icon: fa-solid fa-wallet
         href: https://www.credential.net/profile/obimadu/wallet
+
+  - title: Resume
+    links:
+      - text: Request Resume
+        icon: fa-regular fa-newspaper
+        href: mailto:resume@obimadu.pro
+        info: It returns asap!
         
   - title: Gaming
     links:
