@@ -35,9 +35,13 @@ links:
         icon: fa-brands fa-discord
         href: https://discordapp.com/users/861563211236638721
         info: "username: .obimadu"
+      - text: LinkedIn
+        icon: fa-brands fa-linkedin-in
+        href: https://linkedin.com/in/obimadu
       - text: Twitter
         icon: fa-brands fa-x-twitter
         href: https://x.com/realObiM
+
 
   - title: View & Verify Credentials
     links:
