@@ -20,7 +20,7 @@ links:
       - text: Read my Blog!
         icon: fa-solid fa-wifi
         href: https://blog.obimadu.pro
-        info: Updated weekly 🔥 
+        info: I write one! 🔥 
       - text: Github
         icon: fa-brands fa-github
         href: https://github.com/obiMadu
@@ -32,6 +32,10 @@ links:
         icon: fa-solid fa-envelope
         href: "mailto:hello@obimadu.pro"
         copy: "hello@obimadu.pro"
+      - text: Discord
+        icon: fa-brands fa-discord
+        href: https://discordapp.com/users/861563211236638721
+        info: "username: .obimadu"
       - text: Twitter
         icon: fa-brands fa-x-twitter
         href: https://x.com/realObiM
