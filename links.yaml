@@ -6,7 +6,6 @@ config:
   description: | 
     Multi-certified Cloud & DevOps Engineer. Linux, CI/CD, Docker, Ansible, Terraform, GCloud, Azure, Kubernetes. Automated software builds, tests, deployments, across dev, staging & production environments via industry best practices.
     <b>HNGx Top 5%, GADS '22 Finalist.</b>
-    <i>Retired CODm Respawn Snipper.</i>
   avatar: avatar.webp
   background: background.webp
   background_opacity: 0.7
@@ -60,10 +59,3 @@ links:
         icon: fa-regular fa-newspaper
         href: mailto:resume@obimadu.pro
         info: I return it asap!
-        
-  - title: Gaming
-    links:
-      - text: Call Of Duty Mobile
-        icon: fa-solid fa-person-rifle
-        href: https://1drv.ms/f/s!AoXFFrVRaU_blRlS_S_ZJkVPJodc
-        info: Am retired though!
