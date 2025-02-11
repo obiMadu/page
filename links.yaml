@@ -26,6 +26,9 @@ links:
 
   - title: Contacts & Socials
     links:
+      - text: Setup a Meet
+        icon: fa-regular fa-calendar-days
+        href: "https://calendly.com/obimadu"
       - text: Email
         icon: fa-solid fa-envelope
         href: "mailto:hello@obimadu.pro"
