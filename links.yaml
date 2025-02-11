@@ -4,7 +4,7 @@ config:
   # pronouns:
   # pronunciation: name.mp3
   description: | 
-    Multi-certified Cloud & DevOps Engineer. Linux, CI/CD, Docker, Ansible, Terraform, GCloud, Azure, Kubernetes. Automated software builds, tests, deployments, across dev, staging & production environments via industry best practices.
+    Multi-certified Cloud & DevSecOps Engineer. Linux, CI/CD, Docker, Ansible, Terraform, GCloud, Azure, Kubernetes. Automated software builds, tests, deployments, across dev, staging & production environments via industry best practices.
     <b>HNGx Top 5%, GADS '22 Finalist.</b>
   avatar: avatar.webp
   background: background.webp
