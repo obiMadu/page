@@ -37,6 +37,7 @@ links:
         icon: fa-brands fa-discord
         href: https://discordapp.com/users/861563211236638721
         info: "Username > .obimadu"
+        copy: ".obimadu"
       - text: LinkedIn
         icon: fa-brands fa-linkedin
         href: https://linkedin.com/in/obimadu
